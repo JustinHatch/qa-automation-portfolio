@@ -1,6 +1,6 @@
-# Certifications
+# Training and Course Certificates
 
-Certifications earned to support my skills in QA Automation, Software Testing, and Python development:
+Completed courses supporting my manual QA, software-testing, and introductory Python/automation skills:
 
 - Intermediate Python – DataCamp (Issued: Sept 29, 2025)  
 - Python Developer – SoloLearn (Issued: Sept 25, 2025)  
@@ -13,4 +13,4 @@ Certifications earned to support my skills in QA Automation, Software Testing, a
 - Python Programming – Test Automation University (Issued: Sept 28, 2025)  
 - Software Testing Tutorial – Great Learning Academy (Issued: July 2025)  
 
-These certifications support my qualifications for entry-level QA and automation testing roles.
+These are course-completion records, not claims of professional QA employment. They support my preparation for junior QA and application-support roles. Original issue dates are preserved.
